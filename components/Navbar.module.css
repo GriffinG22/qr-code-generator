@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 100%;
+  border-bottom: 1px solid white;
+}
+
+.logo {
+  max-height: 160px;
+  max-width: 160px;
+}
